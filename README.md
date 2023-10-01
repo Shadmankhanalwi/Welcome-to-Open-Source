@@ -65,7 +65,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="SHADMANKHANALWI.github.io">
                     <img src="https://avatars.githubusercontent.com/u/59784690?v=4" width="100px;" alt="Shadman Khan Alwi"/>
                     <br />
-                    <sub><b>Shadman Khan Alwi</b></sub>
+                    <sub><b>Shadman Khan A</b></sub>
                 </a>
             </td>
             <td align="center">
